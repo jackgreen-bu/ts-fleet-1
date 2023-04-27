@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.1](https://github.com/jacksgreen/ts-fleet/compare/@beamup-ai/is-odd@0.1.0...@beamup-ai/is-odd@0.1.1) (2023-04-27)
+
+**Note:** Version bump only for package @beamup-ai/is-odd
+
+
+
+
+
 # 0.1.0 (2023-04-27)
 
 
