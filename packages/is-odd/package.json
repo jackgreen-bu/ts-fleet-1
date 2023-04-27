@@ -1,5 +1,5 @@
 {
-  "name": "@jacksgreen/is-odd",
+  "name": "@beamup-ai/is-odd",
   "version": "0.0.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,7 +14,7 @@
     "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist"
   },
   "dependencies": {
-    "@jacksgreen/is-even": "*"
+    "@beamup-ai/is-even": "*"
   },
   "devDependencies": {}
 }
